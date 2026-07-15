@@ -179,3 +179,5 @@ yellow_tripdata_2024-01.parquet
 docker-compose.yml
 test.ipynb
 lab_0.ipynb
+yellow_tripdata_2024-01.csv
+taxi_zone_lookup.csv
